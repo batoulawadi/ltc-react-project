@@ -9,7 +9,7 @@ function Home (){
        for a special experience.
       </p>
 
-        <div id="explore"><h1>Explore Now</h1></div>
+        <div id="explore"><h2>Explore Now</h2></div>
         </div>
 
     )
