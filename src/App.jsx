@@ -1,6 +1,6 @@
 
 import Navbar from "./components/Navbar"
-import Home from "./components/home"
+import Home from "./components/Home"
 import DestinationCard from "./components/DestinationCard"
 import Destinations from "./components/Destinations"
 import Packages from "./components/Packages"
