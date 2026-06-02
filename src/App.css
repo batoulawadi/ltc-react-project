@@ -192,6 +192,10 @@ tr:hover{
   border-radius:10px;
 }
 
+#book{
+  text-align: center;
+}
+
 #book-btn{
   margin: 10px;
   padding:10px 20px;
